@@ -16,40 +16,21 @@ Check out the sections below to get started, or take a look at [our technical do
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
-* [Help us improve Trust](#help-us-improve-trust)
-* [Help us improve Ask](#help-us-improve-ask)
-* [Help us improve Talk](#help-us-improve-talk)
-* [Help us improve Guides](#help-us-improve-guides)
-* [Join our online community](#our-online-community)
+* [Join our Slack group](https://coralprojectslackin.herokuapp.com/)
+* [Join us in building Ask](#join-us-in-building-ask)
+* [Join us in building Talk](#join-us-in-building-talk)
+* [Join us in writing our Guides](#join-us-in-writing-our-guides)
+* [Join our online community](#join-our-online-community)
 * [Other ideas and bug reports](#other-ideas-and-bug-reports)
 
-&nbsp;
 
 &nbsp;
-
-# **Help us improve Trust**
-
-[Read about Trust here.](/products/trust.html)
-
-## Contribute without coding
-
-* Add feature ideas [to our community board](https://community.coralproject.net/c/the-coral-project/product-trust)
-* [Submit feature ideas in the form below](#other-ideas-and-bug-reports)
-* Report bugs by checking our GitHub issues, then submitting a new issue if there isn’t one already. Or you can report a bug [in the form below](#other-ideas-and-bug-reports)
-* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
-
-## Contribute by coding
-
-* Fix a bug by submitting a GitHub issue if there isn’t one already, then commenting in the relevant issue to let everyone know you’re working on it
-* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
-
-
+&nbsp;
+<p align="center">_____________</p>
+&nbsp;
 &nbsp;
 
-&nbsp;
-
-
-# **Help us improve Ask**
+# **Join us in building Ask**
 
 [Read about Ask here.](/products/ask.html)
 
@@ -61,16 +42,20 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 ## Contribute by coding
 
+The Ask stack is Go, React, Redux, Mongo. 
+
 * Build a feature by [looking at the “Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask) and selecting one you’d like to build. Submit a relevant GitHub issue [if there isn’t one already](https://github.com/coralproject/ask/issues)
 * Fix a bug by submitting a GitHub issue [if there isn’t one already](https://github.com/coralproject/ask/issues), then commenting in the relevant issue to let everyone know you’re working on it
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
 &nbsp;
-
+&nbsp;
+<p align="center">_____________</p>
+&nbsp;
 &nbsp;
 
 
-# **Help us improve Talk**
+# **Join us in building Talk**
 
 [Read about Talk here.](/products/talk.html)
 
@@ -82,16 +67,23 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 ## Contribute by coding
 
-Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him know you're interested.
+The Talk stack is Node, React, Redux, Mongo, Redis.
+
+* [How to configure and install the latest version](https://github.com/coralproject/talk) _(NB Talk is currently in development, not production ready)_
+* See [current user stories we're working on](https://www.pivotaltracker.com/n/projects/1863625) - let us know if you want to pick one up
+* [Follow the latest design stories,](https://trello.com/b/ILND751a/talk) and see what's coming next - they're up for grabs
+* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you'd like any help/direction, or information about future features that need development help.
 
 
 
 &nbsp;
-
+&nbsp;
+<p align="center">_____________</p>
+&nbsp;
 &nbsp;
 
 
-# **Help us improve Guides**
+# **Join Us in writing our Guides**
 
 [Read about Guides here.](/products/guides.html)
 
@@ -100,19 +92,22 @@ Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him
 * Send ideas for what you want to read / write to [Sydette Harry](mailto:sydette@mozillafoundation.org) (and yes, we do pay for blogposts/contributions)
 * [Fill out the form below](#other-ideas-and-bug-reports)
 
-
+&nbsp;
+&nbsp;
+<p align="center">_____________</p>
+&nbsp;
 &nbsp;
 
-&nbsp;
 
-
-# **Our online community**
+# **Join our online community**
 
 [Join more than 300 members of our online community](https://community.coralproject.net), discussing community tools and practices as well as our goals and strategy.
 
 
 &nbsp;
-
+&nbsp;
+<p align="center">_____________</p>
+&nbsp;
 &nbsp;
 
 # **Other ideas and bug reports**

@@ -9,24 +9,23 @@ bg-img-sm: /images/learnmore-sm.jpg
 ---
 # About us
 
-The Coral Project improves the ways that journalists and communities engage on news websites. We are building free, open-source tools for publishers of all sizes. Because journalism needs everyone.
+The Coral Project brings journalists and the communities they serve closer together. 
 
-We're currently building four products:
+We do this to raise public trust in journalism, to increase the diversity of voices and experiences reflected in news reporting, and to improve journalism by making it more relevant to people’s lives. Because journalism needs everyone. 
 
-* [Trust](/products/trust.html) - a search tool that helps you find users and contributions you can trust.
-* [Ask](/products/ask.html) -  a form/gallery builder to collect, manage, and display user-generated contributions.
-* [Talk](/products/talk.html) - a discussion space that is highly customizable, and designed for safety.
-* [Guides](/products/guides.html) - methods to improve your online communities, whatever tools you use.
+We fulfill this mission through open-source tools and practices for newsrooms of all sizes. Our software is currently in use in several newsrooms. We also [run events](https://blog.coralproject.net/beyond-comments-our-first-event/), publish [academic research](https://coralproject.net/research.html) and [guides to best practices](https://blog.coralproject.net/), and we share everything we do online, for free. [We can't do it without your help.](https://coralproject.net/contribute.html)
 
-&nbsp;
+We have three products:
+
+* [Ask](/products/ask.html) -  a form/gallery builder to collect, manage, and display user-generated contributions.  _Status: Released_
+* [Talk](/products/talk.html) - a discussion space that is highly customizable, and designed for safety.  _Status: Beta Q1 2017_
+* [Guides](/products/guides.html) - methods to improve your online communities, whatever tools you use. _Status: Release Q2 2017_
 
 We want to talk to anyone who might be impacted by our work.
 
-So far, we’ve interviewed more than 300 people in 150 newsrooms in 30 countries, as well as commenters, trolls, and people who never comment. [We want to talk to you.](/contact.html)
+So far, we’ve interviewed more than 350 people in 150 newsrooms in 30 countries, as well as commenters, trolls, and people who never comment. [We want to talk to you.](/contact.html)
 
-As we learn, we share. We’ve created [fictionalized personas](https://community.coralproject.net/t/our-user-personas/286) whose needs are at the heart of everything we build. We have [a blog](http://blog.coralproject.net) filled with articles from and about community experts. We have [our own online community](http://community.coralproject.net) that helps design and improve our work. We [hold](https://blog.coralproject.net/our-first-hackathon/) [events](https://blog.coralproject.net/beyond-comments-our-first-event/) around communities and code. We’ve even invented [a community card game.](https://blog.coralproject.net/cards/)
-
-If you have ideas of what else we can do with you, [please get in touch.](/contact.html)
+If you'd like to discuss how we can work together, [please get in touch.](/contact.html)
 
 And the name? Coral’s intricate reef systems protect shorelines and give cover for organisms to connect and evolve. Like coral, we aim to create the structure to help communities thrive.
 
@@ -40,7 +39,7 @@ And the name? Coral’s intricate reef systems protect shorelines and give cover
 ![Andrew Losowsky]({{"/images/team/Andrew.jpg" | prepend: site.baseurl}})
 
 ### Andrew Losowsky, Project Lead
-I drink a lot of tea. Previously: The Huffington Post, News Corp, John S. Knight Fellow at Stanford University, start ups. Currently: Adjunct in the Journalism+Design program at The New School in New York; Co-Director, The Museum On Site.
+I drink a lot of tea. Previously: The Huffington Post, News Corp, John S. Knight Fellow at Stanford University, start ups. Also currently: Adjunct in the Journalism+Design program at The New School in New York.
 
 ![David Erwin]({{"images/team/David.jpg" | prepend: site.baseurl}})
 
@@ -92,31 +91,15 @@ I like building things. Formerly of Tumblr and the New York Times, creating data
 ### Belén Curcio, Front End Developer
 I'm a software developer passionate about web technologies. If I can't find a solution, I create it. In my free time, I like to contribute to open-source projects, explore tech communities, and solve Rubik's Cubes.
 
-![David Jay]({{"/images/team/Davidjay.jpg" | prepend: site.baseurl}})
-
-### David Jay, Front End Developer
-I'm into technology, community organizing, and matzoh ball soup. I’ve spent much of my career finding ways to build new and interesting spaces for conversation online. I also do LGBTQA organizing and work to build better online safe spaces.
-
 ![Wyatt Johnson]({{"/images/team/wyatt.jpg" | prepend: site.baseurl}})
 
-### Wyatt Johnson, Full-Stack Developer
+### Wyatt Johnson, Software Architect
 I’m a full-stack software developer with a security-first mindset. I create backend systems that handle the data in a responsible and monitored way. For fun, I run and climb things.
-
-![Dan Zajdband ]({{"/images/team/Dan.jpg" | prepend: site.baseurl}})
-
-### Dan Zajdband, Knight-Mozilla OpenNews Fellow
-I’m a software developer passionate about real-time technologies, open source projects, and Open Journalism. I create digital tools for people to express their ideas in different and creative ways. I also do things I can’t do well, like playing soccer and the guitar.
-
-![Martin Shelton ]({{"/images/team/Martin.jpg" | prepend: site.baseurl}})
-
-### Martin Shelton, Knight-Mozilla OpenNews Fellow
-Through user research and data analytics, I study how to improve online privacy and security for at-risk groups. I previously worked at Google, the Pew Research Center, and Twitter as an intern. I earned my PhD in Information and Computer Science at UC Irvine.
 
 ![Dan Sinker ]({{"/images/team/DanSinker.jpg" | prepend: site.baseurl}})
 
 ### Dan Sinker, Project Advisor, Head of Knight-Mozilla OpenNews
 I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.
-
 
 &nbsp;
 &nbsp;
